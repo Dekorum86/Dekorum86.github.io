@@ -1,0 +1,46 @@
+h1{
+    color: rgb(238, 229, 229);
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: rgb(238, 229, 229);
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+img{
+    width: 45%;
+    box-shadow: 0 0 30px rgb(238, 229, 229);
+    margin: 1%;
+}
+td{
+    font-family: 'Courier New', Courier, monospace;
+}
+.elérhetőség{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.Elérhetőségek{
+    text-align: center;
+}
+.kozepre{
+    text-align: center;
+}
+#kozeprepls{
+    text-align: center;
+}
+table, th, td {
+  border: 1px solid rgb(238, 229, 229);
+  border-collapse: collapse;
+  color: rgb(238, 229, 229);
+}
+html{
+    background-image: url("../IMG/hatter.jpg");
+}
+ul{
+    color: rgb(238, 229, 229);
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace; 
+}
